@@ -1,6 +1,6 @@
 - Estudante: 8º Período de Bacharelado em Ciência da Computação - UTFPR Medianeira
 
-- Nivel de conhecimento em inglês: Intermediário
+- Nivel de conhecimento em inglês: Básico, 
 
 - Experiência profissional:
 	  Estágio na área de Desenvolvimento de Aplicativos Móveis e WEB - Wealth Systems - Cascavel, PR (2020)
