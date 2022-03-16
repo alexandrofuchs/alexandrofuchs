@@ -1,16 +1,42 @@
-### Hi there 👋
+- Estudante: 8º Período de Bacharelado em Ciência da Computação - UTFPR Medianeira
 
-<!--
-**alexandrofuchs/alexandrofuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Nivel de conhecimento em inglês: Intermediário
 
-Here are some ideas to get you started:
+- Experiência profissional:
+	  Estágio na área de Desenvolvimento de Aplicativos Móveis e WEB - Wealth Systems - Cascavel, PR (2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Experiências em Desenvolvimento:
+  * Back-end:
+      * Construção de APIs REST com .Net Core MVC
+      * Construção de APIs REST com NodeJS
+  * Front-end:
+      * Construção de Aplicações Móveis com React Native
+      * Construção de Aplicações Web com ReactJS
+  * Tecnologias Trabalhadas:
+      * Gerenciamento de Projetos
+          * Git/Git-Hub			
+      * Frontend:
+          * React Hooks
+          * React Router
+          * MobX
+          * CSS
+          * Componentes Material.io
+          * Context API
+          * Async Storage, Local Storage/Session Storage
+          * Axios/Fetch
+      * Backend:
+          * NodeJS:  
+              * Criação e configuração de imagens em containers Docker(Dockerfile, Docker compose)
+              * Desenvolvimento de APIs com NodeJS
+              * Express, sailsJS
+              * Sequelize/Knex 
+              * Autenticação por JWT Token
+          * Net Core:  
+              * Conceitos OO   
+              * ApiController Base   
+              * Clains-based Authorization
+              * Language Integrated Query (LinQ)
+              * SQL Server (Express)
+
+
+--
