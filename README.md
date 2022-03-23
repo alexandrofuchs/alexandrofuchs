@@ -31,9 +31,11 @@
               * Express, sailsJS
               * Sequelize/Knex 
               * Autenticação por JWT Token
+              * PostgresSQL              
           * Net Core:  
               * Conceitos OO   
-              * ApiController Base   
+              * .Net Core MVC(APIs)   
+              * Entity Framework
               * Clains-based Authorization
               * Language Integrated Query (LinQ)
               * SQL Server (Express)
