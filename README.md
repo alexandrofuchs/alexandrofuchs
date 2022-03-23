@@ -31,7 +31,7 @@
               * Express, sailsJS
               * Sequelize/Knex 
               * Autenticação por JWT Token
-              * PostgresSQL
+              * PostgreSQL
           * Net Core:  
               * Conceitos OO
               * .Net Core MVC(APIs)   
