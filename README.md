@@ -30,10 +30,10 @@
               * Desenvolvimento de APIs com NodeJS
               * Express, sailsJS
               * Sequelize/Knex 
-              * Autenticação por JWT Token
-              * PostgresSQL              
+              * Autenticação por JWT Token   
+	      * PostgresSQL
           * Net Core:  
-              * Conceitos OO   
+              * Conceitos OO
               * .Net Core MVC(APIs)   
               * Entity Framework
               * Clains-based Authorization
