@@ -33,7 +33,7 @@
               * Autenticação por JWT Token
               * PostgreSQL
           * Net Core:  
-              * Conceitos OO
+              * Conceitos Programação Orientado a Objetos
               * .Net Core MVC(APIs)   
               * Entity Framework
               * Clains-based Authorization
