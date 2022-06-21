@@ -1,17 +1,17 @@
 - Estudante: 8º Período de Bacharelado em Ciência da Computação - UTFPR Medianeira
 
-- Nivel de conhecimento em inglês: Reading(Bom), Listening(Regular), Speaking(Baixo). 
+- Nivel de conhecimento em inglês: Reading(Bom), Writing(regular), Listening(regular), Speaking(Baixo). 
 
 - Experiência profissional:
 	  Estágio na área de Desenvolvimento de Aplicativos Móveis e WEB - Wealth Systems - Cascavel, PR (2020)
 
 - Experiências em Desenvolvimento:
   * Back-end:
-      * Construção de APIs REST com .Net Core MVC
-      * Construção de APIs REST com NodeJS
+      * APIs REST com .Net Core MVC
+      * APIs REST com NodeJS
   * Front-end:
-      * Construção de Aplicações Móveis com React Native
-      * Construção de Aplicações Web com ReactJS
+      * Aplicações Móveis com React Native
+      * Aplicações Web com ReactJS
   * Tecnologias Trabalhadas:
       * Gerenciamento de Projetos
           * Git/Git-Hub			
@@ -36,7 +36,7 @@
               * Conceitos Programação Orientado a Objetos
               * .Net Core MVC(APIs)   
               * Entity Framework
-              * Clains-based Authorization
+              * Clains-based Authentication e Authorization
               * Language Integrated Query (LinQ)
               * SQL Server (Express)
 
