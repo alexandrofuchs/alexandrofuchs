@@ -1,7 +1,7 @@
 * Estudante: 8º Período de Bacharelado em Ciência da Computação - UTFPR Medianeira;
 * Nível de conhecimento em inglês:
-  - Reading(Bom);
-  - Writing(Bom);
+  - Reading(Intermediário);
+  - Writing(Intermediário);
   - Listening(Pré-intermediário);
   - Speaking(Básico);
 
