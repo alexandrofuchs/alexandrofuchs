@@ -10,7 +10,7 @@
   - Estágio na área de Desenvolvimento de Aplicativos Móveis e WEB - Wealth Systems - Cascavel, PR (2020);
   - Freelancer (2022 - atual).
  
-* Principais projetos desenvolvidos(Acadêmico e Profissional)
+* Principais projetos desenvolvidos(Acadêmico e Profissional):
 
   - Aplicativo Móvel voltado a coleta de encomendas(bipagem de itens com código de barras, cadastro para recebimento das demandas, envio de dados ao servidor com sistema próprio de controle de sincronização entre dados locais e remotos conforme conexão disponível, recebimento e emissão de notificações(atualizações de sincronização) no app) - (Flutter - Android);
 
@@ -52,7 +52,7 @@
         - Sqlite;
         - Camera, Google ML Kit(Barcodes e Reconhecimento de Texto), Flutter Notificações;
         - Flutter MethodChannel(Android Native);
-        - Sistema de Gerenciamento de Sincronização de Dados SqLite(Local) com Firebase(Remoto).    		 	
+        - Sistema de Gerenciamento de Sincronização de Dados Sqlite(Local) com Firebase(Remoto).    		 	
     * Backend:
       * Firebase:
         - Storage;
