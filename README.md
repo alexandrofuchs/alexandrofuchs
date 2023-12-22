@@ -18,7 +18,7 @@
  
   - Aplicativo Móvel voltado para exibição de gráficos indicadores representando números e dados estatísticos traduzidos para um sistema de BI(Business Intelligence) incluído em serviços de CRM fornecidos a empresas contratantes. (React Native - Android e Ios); 
 
-  - Aplicação WEB voltada para consumo de API de streaming de vídeos(Autenticação baseado em Claims, token JWT, “cacheamento” de dados de streaming no navegador via rotas API REST, upload de vídeos para o servidor(com sistema de autorização)). (C# (MVC API) e React Native(WEB));
+  - Aplicação WEB voltada para consumo de API de streaming de vídeos(Autenticação baseado em Claims, token JWT, “cacheamento” de dados de streaming no navegador via rotas API REST, upload de vídeos para o servidor(com sistema de autorização)). (C# (MVC API) e React JS(WEB));
  
   - Sistema voltado a funcionalidades de clínica veterinária(funcionalidades de cadastro de animais e proprietários, agendamento de consultas, controle de caixa, cadastro de produtos e medicamentos). (C# - Windows Forms).
  
