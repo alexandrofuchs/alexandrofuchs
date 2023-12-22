@@ -1,4 +1,4 @@
-* Estudante: 8º Período de Bacharelado em Ciência da Computação - UTFPR Medianeira;
+* Nível Ensino: Cursando 8º Período de Bacharelado em Ciência da Computação - UTFPR Medianeira;
 
 * Nível de conhecimento em inglês:
   - Reading(Bom);
