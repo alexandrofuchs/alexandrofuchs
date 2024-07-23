@@ -1,11 +1,5 @@
 * Nível Ensino: Cursando 8º Período de Bacharelado em Ciência da Computação - UTFPR Medianeira;
 
-* Nível de conhecimento em inglês:
-  - Reading(Intermediário);
-  - Writing(Pré-intermediário);
-  - Listening(Pré-intermediário);
-  - Speaking(Básico);
-
 * Experiência profissional:
   - Estágio na área de Desenvolvimento de Aplicativos Móveis e WEB - Wealth Systems - Cascavel, PR (2020);
   - Freelancer (2022 - atual).
