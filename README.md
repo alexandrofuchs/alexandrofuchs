@@ -3,7 +3,7 @@
 
 * Experiência profissional:
   - Estágio na área de Desenvolvimento de Aplicativos Móveis e WEB - Wealth Systems - Cascavel, PR (2020);
-  - Freelancer (2022 - atual).
+  - Autônomo (2022 - 2024).
  
 * Principais projetos desenvolvidos(Acadêmico e Profissional):
 
