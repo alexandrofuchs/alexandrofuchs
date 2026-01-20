@@ -1,6 +1,6 @@
- ## Competências  (Desenvolvedor | Fullstack | Júnior | front-end | back-end )
+ ## Competências  (Desenvolvedor | Fullstack | front-end | back-end )
  
-Sou Alexandro, 29 anos, estudante de Ciência da Computação pela UTFPR Medianeira. Meus conhecimentos e estudos são focados em desenvolvimento de software, arquiteturas de software, bibliotecas e frameworks. Com sete anos de estudos e experiências na área de desenvolvimento, minhas principais competências atualmente são com tecnologias Microsoft .Net Core, ASP .NET CORE, ReactJS, React Native e Flutter. Minhas experiências profissionais foram como estagiário em Desenvolvimento Mobile com React Native (6 meses) e projetos Freelancer com Flutter (3 anos).  Viso integrar um time de desenvolvimento, cooperar, continuar aprendendo e evoluindo na área, aprender novos padrões, como organizar e estruturar diferentes tipos de projetos de software.
+Sou Alexandro, estudante de Ciência da Computação pela UTFPR Medianeira. Meus conhecimentos e estudos são focados em desenvolvimento de software, arquiteturas de software, bibliotecas e frameworks. Com sete anos de estudos e experiências na área de desenvolvimento, minhas principais competências atualmente são com tecnologias Microsoft .Net Core, ASP .NET CORE, ReactJS, React Native e Flutter. Minhas experiências profissionais foram como estagiário em Desenvolvimento Mobile com React Native (6 meses) e projetos Freelancer com Flutter (2.5 anos).
 
  ## Principais Tecnologias de Desenvolvimento:
   * Front-end: 
@@ -39,6 +39,7 @@ Sou Alexandro, 29 anos, estudante de Ciência da Computação pela UTFPR Mediane
     * Flutter test, Mockito.
   
   * ReactJS, React Native(Typescript, Ecmascript, Javascript):
+    * EXPO 
     * HTML, CSS.
     * MOBX, React hooks, API Context. 
     * Axios.
