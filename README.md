@@ -1,6 +1,6 @@
  ## Competências  (Desenvolvedor | Fullstack | front-end | back-end )
  
-Sou Alexandro, estudante de Ciência da Computação pela UTFPR Medianeira. Meus conhecimentos e estudos são focados em desenvolvimento de software, arquiteturas de software, bibliotecas e frameworks. Com sete anos de estudos e experiências na área de desenvolvimento, minhas principais competências atualmente são com tecnologias Microsoft .Net Core, ASP .NET CORE, ReactJS, React Native e Flutter. Minhas experiências profissionais foram como estagiário em Desenvolvimento Mobile com React Native (6 meses) e projetos Freelancer com Flutter (2.5 anos).
+Sou Alexandro, estudante de Ciência da Computação pela UTFPR Medianeira. Meus estudos são focados em desenvolvimento de software, arquiteturas de software, bibliotecas e frameworks. Com anos de estudos e experiências na área de desenvolvimento, minhas principais competências atualmente são em tecnologias Microsoft .Net Core, ASP .NET CORE, ReactJS, React Native e Flutter. Minhas experiências profissionais foram como estagiário em Desenvolvimento Mobile com React Native (6 meses) e projetos freelancer com Flutter (2,5 anos).
 
  ## Principais Tecnologias de Desenvolvimento:
   * Front-end: 
@@ -17,15 +17,15 @@ Sou Alexandro, estudante de Ciência da Computação pela UTFPR Medianeira. Meus
   * intermediário, técnico.
 ## Experiência Geral:
   * 7 anos de cursos e aprendizados na área de desenvolvimento de software;
-  * Experiência profissional no desenvolvimento de Aplicativos Móveis
-    com tecnologias Flutter(Autônomo);
+  * Experiência profissional no desenvolvimento de aplicativos móveis
+    com tecnologias Flutter(autônomo);
   * Experiência profissional com tecnologias React Native(Estágio);
-  * Experiências práticas de com tecnologias .Net Core/ASP NET Core (v5, v8, v9);
+  * Experiências práticas com tecnologias .Net Core/ASP .NET Core (v5, v8, v9);
   * Experiências práticas com tecnologias Node.js.
 
 ## Principais domínios e conhecimentos específicos:
   * .NET Core(C#): 
-    * Padrões de arquiteturas: Tradicional em N camadas, DDD em N camadas, Clean Arch, Hexagonal.
+    * Padrões de arquitetura: Tradicional em N camadas, DDD em N camadas, Clean Arch, Hexagonal.
     * Domain: Anemic Models, Rich Models, Value Objects, Repository Interfaces, Services Interfaces.
     * Persistence/Infrastructure: DbContext, ORM, LINQ, Entity Framework, PostgreSQL.
     * Application: CQRS Handlers, Clean Arch Usecases.
