@@ -36,14 +36,3 @@ Com mais de **7 anos de aprendizado contínuo**, acumulei uma sólida bagagem pr
 * **Inglês:** Intermediário / Técnico (Excelente leitura, documentação e compreensão de conteúdos técnicos).
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrofuchs&show_icons=true&theme=gotham" alt="Stats do Alexandro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrofuchs&layout=compact&theme=gotham" alt="Linguagens mais usadas" />
-</p>
-
----
-
-📫 **Como me encontrar:** [Seu LinkedIn](https://linkedin.com/in/alexandrofuchs)
