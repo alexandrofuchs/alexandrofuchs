@@ -1,11 +1,3 @@
-# Olá, sou Alexandro!
-
-Sou desenvolvedor Fullstack focado na criação de soluções robustas, escaláveis e eficientes. Atualmente, sou estudante de **Ciência da Computação na UTFPR** e dedico meus estudos à arquitetura de software, boas práticas e ecossistemas modernos de desenvolvimento. 
-
-Com mais de **7 anos de aprendizado contínuo**, acumulei uma sólida bagagem prática unindo um ecossistema robusto no Back-end (.NET e Node.js) com a agilidade e performance no Mobile/Front-end (Flutter e React).
-
----
-
 ## 🛠️ Tecnologias e Competências
 
 ### 💻 Back-end
