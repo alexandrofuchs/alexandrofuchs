@@ -22,9 +22,4 @@
 * **Projetos Práticos & Ecossistema .NET / Node.js**
   * Construção de APIs REST e GraphQL robustas, aplicando padrões modernos como Minimal APIs, CQRS, mensageria e ORMs para persistência eficiente.
 
----
 
-## 🗣️ Idiomas
-* **Inglês:** Intermediário / Técnico (Excelente leitura, documentação e compreensão de conteúdos técnicos).
-
----
